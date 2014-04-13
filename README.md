@@ -33,4 +33,6 @@ Performance
 See performance compared with Array.map and [ES5 map shim](https://github.com/jleonard/ecma5-map-shim "github addr") at
 jsPerf: [performance test](http://jsperf.com/custom-map-vs-original-map "test")
 
-> welcome for issue traceback.
+Issues
+------
+> I am waiting for issues.
