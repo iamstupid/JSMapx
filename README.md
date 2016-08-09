@@ -1,7 +1,7 @@
 JSMapx
 ======
 
-For much more effective array mapping.
+For much more efficient array mapping.
 
 Usage
 -----
